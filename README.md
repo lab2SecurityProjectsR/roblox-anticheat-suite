@@ -39,8 +39,8 @@ The suite features automated webhook integration with non-blocking asynchronous 
 ```text
 roblox-anticheat-suite/
 │
-├── .agents/skills/roblox-anticheat/
-│   └── SKILL.md                          <-- Comprehensive technical specification & math formulas
+├
+│   
 │
 ├── assets/
 │   ├── discord_security_alerts.png       <-- Automated anti-cheat violation embeds
