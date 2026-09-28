@@ -38,8 +38,6 @@ The suite features automated webhook integration with non-blocking asynchronous 
 
 ```text
 roblox-anticheat-suite/
-│
-├
 │   
 │
 ├── assets/
