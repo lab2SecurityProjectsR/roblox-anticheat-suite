@@ -140,6 +140,8 @@ When spawning in the test environment, the client receives an interactive test G
 This repository and its codebase are published strictly as a **technical portfolio showcase and professional evaluation sample** (including HiddenDevs skill accreditation and potential client review).
 
 * 🚫 **No Unauthorized Redistribution:** Copying, mirroring, re-uploading, or claiming authorship of this codebase or its underlying algorithms is strictly prohibited.
+
+* JV
 * 🚫 **No Unlicensed Commercial Deployment:** Integration into commercial or public production games without explicit written permission from the author is not permitted.
 * 💼 **Custom Commissions & Integration Services:** If you are a studio owner or developer interested in a customized, battle-tested anti-cheat integration tailored to your game's unique movement and combat systems, contact the author via Discord (`narutodsfsdfsd`) or HiddenDevs.
 
