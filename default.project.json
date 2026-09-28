@@ -1,0 +1,23 @@
+{
+  "name": "RobloxAntiCheatSuite",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "AntiCheat": {
+        "$path": "src/ServerScriptService/AntiCheat"
+      }
+    },
+
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "AntiCheatTest": {
+          "$path": "src/StarterPlayer/StarterPlayerScripts/AntiCheatTest"
+        }
+      }
+    }
+  }
+}

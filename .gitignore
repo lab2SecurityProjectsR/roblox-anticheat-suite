@@ -1,0 +1,11 @@
+# Binaries & Roblox Places
+*.rbxl
+*.rbxlx
+*.exe
+*.dll
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
