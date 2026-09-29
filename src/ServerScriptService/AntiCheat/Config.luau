@@ -49,7 +49,7 @@ local Config = {
 
     -- Staff & Moderation System
     Moderation = {
-        AdminUserIds = { 2319549925 },       -- User's Roblox ID has full admin authority
+        AdminUserIds = { 0 },                -- Replace with your Roblox UserId or Group Rank ID
         AllowDemoTesting = true,             -- Enables interactive ban showcase in test place
         DiscordModWebhook = "https://discord.com/api/webhooks/YOUR_WEBHOOK_HERE",
     }
