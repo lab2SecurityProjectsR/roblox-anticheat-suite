@@ -1,7 +1,9 @@
 --!strict
 --[=[
     DiscordLogger.luau
+    Author: JV (lab2 / lab2SecurityProjectsR)
     Asynchronous telemetry reporter to Discord Webhooks with rate-limit queue.
+    Copyright (c) 2026 JV. All rights reserved.
 ]=]
 
 local HttpService = game:GetService("HttpService")

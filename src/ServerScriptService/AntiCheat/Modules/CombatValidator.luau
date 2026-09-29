@@ -1,7 +1,9 @@
 --!strict
 --[=[
     CombatValidator.luau
+    Author: JV (lab2 / lab2SecurityProjectsR)
     Authoritative server-side hit, line-of-sight, angle cone, and hitbox expander validator.
+    Copyright (c) 2026 JV. All rights reserved.
 ]=]
 
 local Workspace = game:GetService("Workspace")

@@ -1,8 +1,10 @@
 --!strict
 --[=[
     RemoteSanitizer.luau
+    Author: JV (lab2 / lab2SecurityProjectsR)
     Protects RemoteEvents and RemoteFunctions from spam attacks, NaN injections,
     payload tampering, and server resource exhaustion.
+    Copyright (c) 2026 JV. All rights reserved.
 ]=]
 
 local RemoteSanitizer = {}

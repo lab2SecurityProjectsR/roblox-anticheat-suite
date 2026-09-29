@@ -1,7 +1,9 @@
 --!strict
 --[=[
     AntiCheat Configuration File
+    Author: JV (lab2 / lab2SecurityProjectsR)
     Centralized thresholds, tolerances, and action policies.
+    Copyright (c) 2026 JV. All rights reserved.
 ]=]
 
 local Config = {

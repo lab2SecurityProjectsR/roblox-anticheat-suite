@@ -1,12 +1,14 @@
 --!strict
 --[=[
     TestDashboard.client.luau
+    Author: JV (lab2 / lab2SecurityProjectsR)
     Aegis Security & Staff Moderation HUD.
     Features:
       1. Exploit Interceptor Suite (Speed, Teleport, Fly, NoClip, Combat, Remote Flood)
       2. Staff Moderation & Ban Management Panel with Ban Registry & Revocation
       3. Live Discord Webhook Log Dispatcher
       4. Draggable window, Minimizer, Cyber-Glassmorphic aesthetics
+    Copyright (c) 2026 JV. All rights reserved.
 ]=]
 
 local Players = game:GetService("Players")

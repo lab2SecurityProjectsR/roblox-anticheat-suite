@@ -1,8 +1,10 @@
 --!strict
 --[=[
     ModerationManager.luau
+    Author: JV (lab2 / lab2SecurityProjectsR)
     Authoritative staff moderation, ban orchestration, and permission management.
     Handles ban issuing, duration tracking, revocations, and Discord webhook logging.
+    Copyright (c) 2026 JV. All rights reserved.
 ]=]
 
 local Players = game:GetService("Players")

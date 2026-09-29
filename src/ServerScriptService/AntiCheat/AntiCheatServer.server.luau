@@ -1,7 +1,9 @@
 --!strict
 --[=[
     AntiCheatServer.server.luau
+    Author: JV (lab2 / lab2SecurityProjectsR)
     Central security coordinator and lifecycle manager.
+    Copyright (c) 2026 JV. All rights reserved.
 ]=]
 
 local Players = game:GetService("Players")

@@ -1,8 +1,10 @@
 --!strict
 --[=[
     MovementValidator.luau
+    Author: JV (lab2 / lab2SecurityProjectsR)
     Authoritative server-side physics and trajectory validator.
     Prevents Speedhack, Teleport, Fly/Hover, and NoClip with zero client trust.
+    Copyright (c) 2026 JV. All rights reserved.
 ]=]
 
 local Players = game:GetService("Players")

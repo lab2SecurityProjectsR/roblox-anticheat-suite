@@ -1,9 +1,11 @@
 --!strict
 --[=[
     EnvironmentSetup.luau
+    Author: JV (lab2 / lab2SecurityProjectsR)
     Automatically provisions a polished demonstration arena in Workspace.
     Ensures a solid Baseplate, SpawnLocation, NoClip test wall, and Combat dummy exist
     so testers never spawn in the void or suffer accidental falls.
+    Copyright (c) 2026 JV. All rights reserved.
 ]=]
 
 local Workspace = game:GetService("Workspace")
