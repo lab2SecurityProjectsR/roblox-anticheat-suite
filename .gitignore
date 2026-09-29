@@ -4,8 +4,9 @@
 *.exe
 *.dll
 
-# IDE / System
+# IDE / System / Tooling Metadata
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
+.agents/
