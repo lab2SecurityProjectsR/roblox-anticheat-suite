@@ -4,9 +4,16 @@
 *.exe
 *.dll
 
+
 # IDE / System / Tooling Metadata
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
 .agents/
+.envs
+.env
+# Binaries
+*.rbxl
+*.rbxlx
+
